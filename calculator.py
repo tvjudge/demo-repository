@@ -8,7 +8,9 @@ def add(x, y):
 def subtract(x, y):
     """Subtracts two numbers and returns the result."""
     return x - y
-
+# multiply function
+# This function multiplies two numbers
+# and returns the result.
 def multiply(x, y):  # New function
     """Multiplies two numbers and returns the result."""
     return x * y
