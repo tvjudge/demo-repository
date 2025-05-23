@@ -1,6 +1,9 @@
 def add(x, y):
     """Adds two numbers and returns the result."""
     return x + y
+# subtract function
+# This function subtracts two numbers
+# and returns the result.
 
 def subtract(x, y):
     """Subtracts two numbers and returns the result."""
